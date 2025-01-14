@@ -10,6 +10,11 @@ Year on year salary increases are also calculated. </br>
 
 ### Data is visualised in a Tableau dashboard. 
 
+**https://public.tableau.com/app/profile/johann.drayne/viz/UBCEmployeeSalary2/Dashboard2**
+
+
+
+#### With old version at the below address
 **https://public.tableau.com/app/profile/johann.drayne/viz/UBCEmployeeSalary/Dashboard1**
 
 <img width="743" alt="Screenshot 2024-11-25 at 20 33 01" src="https://github.com/user-attachments/assets/3a2fb94f-94d0-458a-b011-1cf510ab060c">
