@@ -12,12 +12,13 @@ Year on year salary increases are also calculated. </br>
 
 **https://public.tableau.com/app/profile/johann.drayne/viz/UBCEmployeeSalary2/Dashboard2**
 
+<img width="500" alt="ubc-employee-salary" src="https://github.com/user-attachments/assets/ed2a0dd5-ac6b-4acc-8eaf-8ac7f3c47a3d" />
 
 
 #### With old version at the below address
 **https://public.tableau.com/app/profile/johann.drayne/viz/UBCEmployeeSalary/Dashboard1**
 
-<img width="743" alt="Screenshot 2024-11-25 at 20 33 01" src="https://github.com/user-attachments/assets/3a2fb94f-94d0-458a-b011-1cf510ab060c">
+<img width="500" alt="Screenshot 2024-11-25 at 20 33 01" src="https://github.com/user-attachments/assets/3a2fb94f-94d0-458a-b011-1cf510ab060c">
 
 ---
 
